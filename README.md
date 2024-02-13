@@ -8,7 +8,7 @@ Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan
 
 ## Penggunaan Login Akses
 
-<b>Petugas Perpus : </b>
+<b>Petugas Perpus : lala</b>
 <br/>
 Username : admin
 <br/>
